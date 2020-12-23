@@ -35,7 +35,7 @@ experience:
         * Modelling
         * Deploying
         
-   - title: Research Assistant
+  - title: Research Assistant
     company: College of Communcations Arts and Sciences, Michigan State University
     company_url: ''
     location: East Lansing, MI
