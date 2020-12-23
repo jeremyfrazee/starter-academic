@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: At-Large Representative
+    company: Student Commission City of East Lansing
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: East Lansing, MI
+    date_start: '2020-09-09'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,11 +35,24 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Lead Campus Organizer
+    company: Elissa Slotkin for Congress
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: East Lansing, MI
+    date_start: '2019-09-09'
+    date_end: '2020-09-09'
     description: Taught electronic engineering and researched semiconductor physics.
+  
+  - title: Intern
+    company: United States House of Representatives
+    company_url: ''
+    location: Lansingm MI
+    date_start: '2019-02-02'
+    date_end: '2019-08-08'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 ---
