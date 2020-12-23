@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: At-Large Representative
-    company: Student Commission City of East Lansing
+    company: Student Commission of City of East Lansing
     company_url: ''
     location: East Lansing, MI
     date_start: '2020-09-09'
@@ -35,6 +35,19 @@ experience:
         * Modelling
         * Deploying
         
+   - title: Research Assistant
+    company: College of Communcations Arts and Sciences, Michigan State University
+    company_url: ''
+    location: East Lansing, MI
+    date_start: '2020-06-06'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+ 
   - title: Lead Campus Organizer
     company: Elissa Slotkin for Congress
     company_url: ''
@@ -46,9 +59,22 @@ experience:
   - title: Intern
     company: United States House of Representatives
     company_url: ''
-    location: Lansingm MI
+    location: Lansing, MI
     date_start: '2019-02-02'
     date_end: '2019-08-08'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+  
+  - title: Research Assistant
+    company: College of Communcations Arts and Sciences, Michigan State University
+    company_url: ''
+    location: Lansing, MI
+    date_start: '2019-10-10'
+    date_end: '2020-03-03'
     description: |2-
         Responsibilities include:
         
