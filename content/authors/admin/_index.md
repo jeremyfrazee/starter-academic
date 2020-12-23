@@ -20,7 +20,7 @@ bio: I am interested in campaigns, data, and strategic communications.
 interests:
 - Political Campaigns
 - Data Analytics & Web Scraping
-- Contiental Philosophy
+- Continental Philosophy
 
 # Education to show in About widget
 education:
@@ -51,7 +51,7 @@ social:
   link: https://github.com/jeremyfrazee
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/jeremyfrazee/
+  link: https://www.linkedin.com/in/jeremyfrazee/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
