@@ -23,17 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: At-Large Representative
-    company: Student Commission of City of East Lansing
+    company: University Student Commission, City of East Lansing
     company_url: ''
     location: East Lansing, MI
     date_start: '2020-09-09'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        What I Do:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Represent the viewpoints of MSU student population with respect to city policies and legislation
+        * Reviews issues in the city governance process that have a potential to affect the interests of the MSU student population and associated activities
         
   - title: Research Assistant
     company: College of Communcations Arts and Sciences, Michigan State University
@@ -42,11 +41,11 @@ experience:
     date_start: '2020-06-06'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        What I Do:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Lead, organize, and maintain clear communication with a small research team alongside a chair of the College of Communication Arts & Sciences
+        * Coded more than 2100 tweets for norm making in relation to COVID-19 policy
+        * Research relevant literature focused on norm making, policy, and COVID-19
  
   - title: Lead Campus Organizer
     company: Elissa Slotkin for Congress
@@ -54,7 +53,12 @@ experience:
     location: East Lansing, MI
     date_start: '2019-09-09'
     date_end: '2020-09-09'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        What I Did:
+        
+        * Founded and organically grew a student organization from one member to 18 active members
+        * Registered over 900 people to vote on campus (2.33% of undergraduate student population)
+        * Staffed Congresswoman Elissa Slotkin at MSU based events
   
   - title: Intern
     company: United States House of Representatives
@@ -63,11 +67,11 @@ experience:
     date_start: '2019-02-02'
     date_end: '2019-08-08'
     description: |2-
-        Responsibilities include:
+        What I Did:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Staffed Slotkin at various in-district events
+        * Worked directly with Slotkin and district director on special projects
+        * Communicated with constituents in-person and over phone
   
   - title: Research Assistant
     company: College of Communcations Arts and Sciences, Michigan State University
@@ -76,9 +80,8 @@ experience:
     date_start: '2019-10-10'
     date_end: '2020-03-03'
     description: |2-
-        Responsibilities include:
+        What I Did:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Contributed to research focusing on 2016 Trump counties and relation to opioid use 
+        * Catalogued township contact information, precinct vote totals, and other demographic information for over 600 townships in Michigan and Ohio
 ---
