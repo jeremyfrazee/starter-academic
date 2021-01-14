@@ -20,7 +20,7 @@ bio: I am interested in campaigns, data, and strategic communications.
 interests:
 - Political Campaigns
 - Data Analytics & Web Scraping
-- Continental Philosophy
+- Finance and Investment Strategy
 
 # Education to show in About widget
 education:
