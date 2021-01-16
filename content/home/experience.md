@@ -32,7 +32,7 @@ experience:
         What I Do:
         
         * Represent the viewpoints of MSU student population with respect to city policies and legislation
-        * Reviews issues in the city governance process that have a potential to affect the interests of the MSU student population and associated activities
+        * Review issues in the city governance process that have a potential to affect the interests of the MSU student population and associated activities
         
   - title: Research Assistant
     company: College of Communcations Arts and Sciences, Michigan State University
@@ -57,7 +57,7 @@ experience:
         What I Did:
         
         * Founded and organically grew a student organization from one member to 18 active members
-        * Registered over 900 people to vote on campus (2.33% of undergraduate student population)
+        * Registered ~1000 people to vote on campus (2.33% of undergraduate student population)
         * Staffed Congresswoman Elissa Slotkin at MSU based events
   
   - title: Intern
