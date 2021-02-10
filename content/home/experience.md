@@ -56,7 +56,7 @@ experience:
     description: |2-
         What I Did:
         
-        * Founded and organically grew a student organization from one member to 18 active members
+        * Founded and organically grew a student organization from one member to 18 core members
         * Registered ~1000 people to vote on campus (2.33% of undergraduate student population)
         * Staffed Congresswoman Elissa Slotkin at MSU based events
   
