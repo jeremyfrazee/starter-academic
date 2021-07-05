@@ -253,8 +253,8 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = true
-  google_tag_manager = "G-56BQ5MFKLS"
+  google_analytics = 'G-56BQ5MFKLS'
+  google_tag_manager = ''
 
 ############################
 ## Content Management System
