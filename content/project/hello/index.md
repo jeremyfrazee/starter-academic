@@ -7,7 +7,7 @@ summary: In this project, I use R and R Studio to create a map of rat sightings
   most.
 draft: false
 featured: true
-external_link: https://www.jeremyfrazee.com/project/resume.pdf
+external_link: https://www.jeremyfrazee.com/project/rats.pdf
 image:
   filename: featured.jpg
   focal_point: Smart
