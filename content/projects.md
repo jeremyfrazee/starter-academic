@@ -8,6 +8,4 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Project 1: Rats in New York City
-In this project, I use R and R Studio to 
 ---
