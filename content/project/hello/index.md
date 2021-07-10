@@ -8,5 +8,5 @@ external_link: https://www.jeremyfrazee.com/project/resume.pdf
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
