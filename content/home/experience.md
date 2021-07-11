@@ -37,5 +37,61 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+
+
+  
         
 ---
