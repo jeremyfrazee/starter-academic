@@ -25,70 +25,85 @@ date_format: Jan 2006
 
 
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'University Student Commission At Large Representative'
+    company: 'City of East Lansing'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
+    location: 'East Lansing, Michigan'
+    date_start: '2020-09-09'
     date_end: ''
-    description: >-
+    description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Appointed by the Mayor to 11 person commission to represent the viewpoints of the MSU student population with respect to city policies and legislation
+        * Review issues in the city governance process that have the potential to affect the interests of the MSU student population and associated activities
 
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'Research Assistant'
+    company: 'College of Communication Arts and Sciences'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
+    location: 'East Lansing, Michigan'
+    date_start: '2021-01-01'
+    date_end: '2021-05-05'
+    description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Helped Conduct Focus Group
+        * Performed In-Depth Literature Review
+        * Coded Persuasive Messages/Literature for Convincing People to Join Clincal Trials
 
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'Lead Research Assistant'
+    company: 'College of Communication Arts and Sciences'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
+    location: 'East Lansing, Michigan'
+    date_start: '2020-06-06'
+    date_end: '2020-12-12'
+    description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Lead, organize and maintain clear communication with a small research team alongside a chair of the
+        * Coded 4,400 Tweets for Norm Making in Relation to COVID-19 Policy
+        * Research relevant literature focused on norm making, policy, and COVID-19
+        * Helping write and outline a research paper that the group plans to publish
 
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'Research Assistant'
+    company: 'College of Communication Arts and Sciences'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
+    location: 'East Lansing, Michigan'
+    date_start: '2019-09-09'
+    date_end: '2020-05-05'
+    description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Contributed to research focusing on 2016 Trump counties and relation to opioid use
+        * Catalogued township contact information, precinct vote totals, and other demographic information for over 600 townships in Michigan and Ohio
 
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'Lead Campus Organizer'
+    company: 'Elissa Slotkin for Congress'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
+    location: 'East Lansing, Michigan'
+    date_start: '2019-09-09'
+    date_end: '2020-09-09'
+    description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Staffed Congresswoman Elissa Slotkin at MSU based events
+        * Registered ~1000 people to vote on campus (2.33% of the undergraduate student population)
+        * Spoke at campaign kickoff rally (live-streamed to more than 1,000 people)
+        * Conducted media interviews (Michigan Radio, The State News)
+        * Grew Social Media Followers/Likes by ~700 across various social platforms
+
+
+  - title: 'Intern'
+    company: 'U.S. House of Representatives'
+    company_url: ''
+    location: 'Lansing, Michigan'
+    date_start: '2019-02-02'
+    date_end: '2019-08-08'
+    description: |2-
+        Responsibilities include:
+        
+        * Congresswoman Elissa Slotkin's (MI-08) District office
+        * Staffed Slotkin at various in-district events
+        * Communicated with constituents in-person and over phone
 
 
 
