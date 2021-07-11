@@ -33,20 +33,7 @@ experience:
         
         * Represent the viewpoints of MSU student population with respect to city policies and legislation
         * Review issues in the city governance process that have a potential to affect the interests of the MSU student population and associated activities
-        
-  - title: Research Assistant (Topic: Cancer Clinical Trials)
-    company: College of Communcations Arts and Sciences, Michigan State University
-    company_url: ''
-    location: East Lansing, MI
-    date_start: '2020-06-06'
-    date_end: 2021-05=05''
-    description: |2-
-        What I Did:
-        
-        Research Assistant to Dr. Monique Turner (Chair of Department of Communication)
-        * Helped Conduct Focus Group
-        * Performed In-Depth Literature Review
-        * Coded Persuasive Messages/Literature for Convincing People to Join Clincal Trials
+       
         
  
   - title: Lead Research Assistant (Topic: Social Norms and COVID-19)
