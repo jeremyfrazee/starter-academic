@@ -1,6 +1,6 @@
 ---
 title: Visualizing and Analyzing Michigan Campaign Finance
-date: 2021-07-11T15:37:48.638Z
+date: 2021-06-11T15:37:48.638Z
 draft: false
 featured: false
 external_link: https://www.jeremyfrazee.com/project/campaignfinance.pdf
