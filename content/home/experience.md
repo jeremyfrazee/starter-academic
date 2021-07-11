@@ -28,7 +28,7 @@ experience:
     location: East Lansing, MI
     date_start: '2020-09-09'
     date_end: ''
-    description: >-
+    description: |2-
         What I Do:
         
         * Represent the viewpoints of MSU student population with respect to city policies and legislation
@@ -40,7 +40,7 @@ experience:
     location: East Lansing, MI
     date_start: '2020-06-06'
     date_end: 2021-05=05''
-    description: >-
+    description: |2-
         What I Did:
         
         Research Assistant to Dr. Monique Turner (Chair of Department of Communication)
@@ -55,7 +55,7 @@ experience:
     location: East Lansing, MI
     date_start: '2020-06-06'
     date_end: '2020-12-12'
-    description: >-
+    description: |2-
         What I Did:
         
         Research Assistant to Dr. Monique Turner (Chair of Department of Communication)
@@ -73,7 +73,7 @@ experience:
     location: East Lansing, MI
     date_start: '2019-09-09'
     date_end: '2020-05-05'
-    description: >-
+    description: |2-
         What I Did:
         
         Research Assistant to Dr. Daniel E. Bergan
@@ -87,7 +87,7 @@ experience:
     location: East Lansing, MI
     date_start: '2019-09-09'
     date_end: '2020-09-09'
-    description: >-
+    description: |2-
         What I Did:
         
         * Staffed Congresswoman Elissa Slotkin at MSU based events
@@ -102,7 +102,7 @@ experience:
     location: Lansing, MI
     date_start: '2019-02-02'
     date_end: '2019-08-08'
-    description: >-
+    description: |2-
         What I Did:
         
         * Staffed Slotkin at various in-district events
