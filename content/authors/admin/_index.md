@@ -67,7 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Jeremy Frazee is a Michigan State University (MSU) student majoring in Economics. He also majors in Political Theory and Constitutional Democracy. He minors in Public Relations and Data Analytics. He is in the Econ Scholars Program, which constitutes the top 4% of Economics majors at MSU. He will graduate in 2021. He has experience in government, campaigns, and communications research. He enjoys [camping](https://theculturetrip.com/north-america/usa/michigan/articles/15-scenic-places-go-camping-michigan/) 🏕️ and [cute dogs](https://www.youtube.com/watch?v=fbptjykpNEM) 🐶. 
-
+Hi! My name is Jeremy Frazee and I am a graduating senior at Michigan State University (MSU) majoring in Economics and Political Theory with minors in Data Analytics and Public Relations. In addition, my course work has given me experience in Python, R, Stata, and SQL. I have [experience](https://www.jeremyfrazee.com/#experience) in campaigns, government, and communications research. Check out some of my [projects](https://www.jeremyfrazee.com/project/), some examples including an [econometric analysis of homeless bills of rights](https://www.jeremyfrazee.com/project/econfinal.pdf) or [analyzing campaign finance data](https://www.jeremyfrazee.com/project/campaignfinance.pdf). In my freetime, I like running 🏃, camping 🏕️, playing strategy video games 🎮.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
