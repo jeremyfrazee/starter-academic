@@ -37,25 +37,13 @@ experience:
         * Appointed by the Mayor to 11 person commission to represent the viewpoints of the MSU student population with respect to city policies and legislation
         * Review issues in the city governance process that have the potential to affect the interests of the MSU student population and associated activities
 
-  - title: 'Research Assistant'
-    company: 'College of Communication Arts and Sciences'
-    company_url: ''
-    location: 'East Lansing, Michigan'
-    date_start: '2021-01-01'
-    date_end: '2021-05-05'
-    description: |2-
-        Responsibilities include:
-        
-        * Helped Conduct Focus Group
-        * Performed In-Depth Literature Review
-        * Coded Persuasive Messages/Literature for Convincing People to Join Clincal Trials
-
+  
   - title: 'Lead Research Assistant'
     company: 'College of Communication Arts and Sciences'
     company_url: ''
     location: 'East Lansing, Michigan'
     date_start: '2020-06-06'
-    date_end: '2020-12-12'
+    date_end: '2021-05-05'
     description: |2-
         Responsibilities include:
         
@@ -63,6 +51,9 @@ experience:
         * Coded 4,400 Tweets for Norm Making in Relation to COVID-19 Policy
         * Research relevant literature focused on norm making, policy, and COVID-19
         * Helping write and outline a research paper that the group plans to publish
+        * Helped Conduct Focus Group
+        * Performed In-Depth Literature Review
+        * Coded Persuasive Messages/Literature for Convincing People to Join Clincal Trials
 
   - title: 'Research Assistant'
     company: 'College of Communication Arts and Sciences'
