@@ -47,7 +47,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Lead, organize and maintain clear communication with a small research team alongside a chair of the
+        * Lead, organize and maintain clear communication with a small research team
         * Coded 4,400 Tweets for Norm Making in Relation to COVID-19 Policy
         * Research relevant literature focused on norm making, policy, and COVID-19
         * Helping write and outline a research paper that the group plans to publish
